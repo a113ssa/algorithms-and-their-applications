@@ -1,1 +1,1 @@
-# algorithms-and-their-applications
+## Algorithms and their applications
